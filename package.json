@@ -1,5 +1,5 @@
 {
-  "name": "img",
+  "name": "image-mosaic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,7 +29,8 @@
   "pkg": {
     "assets": [
       "node_modules/sharp/build/**/*",
-      "node_modules/sharp/vendor/8.11.3/win32-x64/lib/**/*"
+      "node_modules/sharp/vendor/8.11.3/win32-x64/lib/**/*",
+      "node_modules/figlet/**/*"
     ],
     "targets": [
       "win"
