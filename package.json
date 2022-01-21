@@ -15,7 +15,7 @@
     "chalk": "^4.1.2",
     "figlet": "^1.5.2",
     "inquirer": "^8.2.0",
-    "inquirer-file-tree-selection-prompt": "^1.0.13",
+    "inquirer-file-tree-selection-prompt": "^1.0.15",
     "ora": "^5.4.1",
     "sharp": "^0.29.3"
   },
